@@ -39,19 +39,5 @@
 </template>
 
 <style>
-.sobre {
-  padding: 20px;
-}
-
-section {
-  margin-bottom: 20px;
-}
-
-h1 {
-  color: #0b3d91;
-}
-
-h2 {
-  color: #333;
-}
+@import '../assets/sobreView.css';
 </style>

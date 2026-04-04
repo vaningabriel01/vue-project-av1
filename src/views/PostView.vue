@@ -42,13 +42,5 @@ export default {
 </script>
 
 <style>
-.post {
-  padding: 20px;
-}
-
-a {
-  display: inline-block;
-  margin-top: 20px;
-  color: blue;
-}
+@import '../assets/postView.css';
 </style>

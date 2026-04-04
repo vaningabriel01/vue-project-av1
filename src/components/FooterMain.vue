@@ -5,10 +5,5 @@
 </template>
 
 <style>
-footer {
-  background: #222;
-  color: white;
-  text-align: center;
-  padding: 10px;
-}
+@import '../assets/footerMain.css';
 </style>

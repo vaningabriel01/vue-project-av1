@@ -16,9 +16,5 @@ export default {
 </script>
 
 <style>
-.card {
-  border: 1px solid #ccc;
-  padding: 10px;
-  margin: 10px;
-}
+@import '../assets/postMain.css';
 </style>
